@@ -220,6 +220,7 @@ streamlit run streamlit_app/app.py --server.port 8501
 ```
 
 The UI will be available at `http://localhost:8501`
+![Screenshot_23-2-2026_191741_](https://github.com/user-attachments/assets/3127cc89-2b4a-47c1-813d-4dde563205df)
 
 ---
 
